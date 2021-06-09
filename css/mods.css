@@ -1,0 +1,51 @@
+body {
+    background-color: #FFF5E2;
+}
+
+.big-c {
+    height: 100vh;
+}
+
+header {
+    height: 15%;
+    background-color: #FDBB40;
+}
+
+.burger-top {
+    position: relative;
+    left: 5%;
+}
+
+main {
+    background-color: #FFF;
+    height: 75%;
+}
+
+main .row div img {
+    width: 15%;
+}
+
+.big-c main div input {
+    border: 0px;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.coupon-section input {
+    background-color: #FFF5E2;
+    border-radius: 5px;
+}
+
+main button {
+    border: 0px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 20px;
+    background-color: #FDC200;
+}
+
+footer {
+    height: 10%;
+    background-color: #d33359;
+}

@@ -14,6 +14,5 @@ function calculate() {
         result -= sconto;
       }
     result /= 100;
-    document.getElementById('output').innerHTML = result.toFixed(2);
+    document.getElementById('output').innerHTML = "$" + result.toFixed(2);
   }
-  
